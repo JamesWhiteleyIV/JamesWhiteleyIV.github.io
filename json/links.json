@@ -1,26 +1,14 @@
 [
     {
         "name": "Github",
-        "color": "green",
-        "icon": "github-circle",
+        "color": "red",
+        "icon": "github-box",
         "url": "https://github.com/JamesWhiteleyIV"
 	},
     {
         "name": "LinkedIn",
-        "color": "blue",
-        "icon": "linkedin",
+        "color": "red",
+        "icon": "linkedin-box",
         "url": "https://www.linkedin.com/in/jameswhiteleyiv/"
 	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	}
-]
+
