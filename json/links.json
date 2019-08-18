@@ -10,5 +10,12 @@
         "color": "red",
         "icon": "linkedin-box",
         "url": "https://www.linkedin.com/in/jameswhiteleyiv/"
+	},
+    {
+        "name": "Resume",
+        "color": "red",
+        "icon": "file-account",
+        "url": "../resources/resume.txt"
 	}
+
 ]
