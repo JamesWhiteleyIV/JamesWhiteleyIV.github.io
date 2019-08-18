@@ -1,15 +1,15 @@
 [
     {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "name": "Github",
+        "color": "green",
+        "icon": "github-circle",
+        "url": "https://github.com/JamesWhiteleyIV"
 	},
     {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
+        "name": "LinkedIn",
+        "color": "blue",
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/jameswhiteleyiv/"
 	},
     {
         "name": "Link",
