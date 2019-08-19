@@ -11,7 +11,10 @@ linkRequest.onreadystatechange = function () {
             var html = "";
             JSON.parse(linkRequest.responseText).forEach(function (link) {
                 console.log(link.name);
-                html += "<div class=\"links waves-effect\"><a href=" + link.url + " class=\"black-text valign-wrapper\" target=\"_blank\"><i class=\"link_icon mdi mdi-" + link.icon + "\" style=\"color: " + link.color + "\"></i>&nbsp; " + link.name + "</a></div>";
+                if link.name == "Resume":
+                    html += "<div class=\"links waves-effect\"><a href=" + link.url + " class=\"black-text valign-wrapper\" download><i class=\"link_icon mdi mdi-" + link.icon + "\" style=\"color: " + link.color + "\"></i>&nbsp; " + link.name + "</a></div>";
+                else:
+                    html += "<div class=\"links waves-effect\"><a href=" + link.url + " class=\"black-text valign-wrapper\" target=\"_blank\"><i class=\"link_icon mdi mdi-" + link.icon + "\" style=\"color: " + link.color + "\"></i>&nbsp; " + link.name + "</a></div>";
             });
             link.innerHTML = html;
         }
