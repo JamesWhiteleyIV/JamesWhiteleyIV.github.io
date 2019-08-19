@@ -15,7 +15,7 @@
         "name": "Resume",
         "color": "red",
         "icon": "file-account",
-        "url": "../resources/resume.txt"
+        "url": "../resources/resume.pdf"
 	}
 
 ]
