@@ -25,8 +25,8 @@
 	},
     {
         "name": "Chess",
-        "description": "2D Chess game written in JavaScript. A fun, simple project I made after my first quarter of Oregon State University's Computer Science program. I re-wrote the code from a C++ version I wrote months earlier to provide a GUI for the game.",
-        "image": "images/chess.jpg",
+        "description": "2D Chess game written in JavaScript. A fun, simple project I made after my first quarter of Oregon State University's Computer Science program. I re-wrote the code from a C++ version I wrote months earlier to provide a GUI for the game. \nNote: the image is not of my application but its very similar, I do not have the game hosted anywhere at this time.",
+        "image": "images/chess.jpeg",
         "link": "https://github.com/JamesWhiteleyIV/Chess-2.0"
 	}
 
