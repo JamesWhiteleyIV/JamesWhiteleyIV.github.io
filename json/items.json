@@ -1,26 +1,33 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "FoodBuddy",
+        "description": "A stand-alone Qt application which allows a user to save recipes, tag them, and add notes/screenshots",
+        "image": "images/foodbuddy.jpg",
+        "link": "https://github.com/JamesWhiteleyIV/FoodBuddy"
 	},
     {
-        "name": "Project 2",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Unity 3D Survival Shooter",
+        "description": "For my senior capstone project at Oregon State, working on a development team with two other students we created a third-person/first-person hybrid survival shooter written in C# using Unity 3D.",
+        "image": "images/notinkansas.png",
+        "link": "https://jameswhiteleyiv.itch.io/not-in-kansas-anymore"
 	},
     {
-        "name": "Project 3",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Paper Trading",
+        "description": "Implemented a command line tool in Python leveraging the Pandas module to simulate real-time stock market investing. Includes ability to buy/sell investments, add profit targets/stop losses, create multiple portfolios, and display portfolio statistics.",
+        "image": "images/papertrading.jpg",
+        "link": "https://github.com/JamesWhiteleyIV/Paper-Trading"
 	},
     {
-        "name": "Project 4",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
-        "link": "https://google.com"
+        "name": "Equity Data Scraper",
+        "description": "Scrapes Morningstar.com for quarterly and annual fundamental data as well as analyst estimates from Marketwatch.com and earnings surprises from Nasdaq.com. Stores the data as .csv or .pkl. Can easily be adapted to store in MySQL or other DB.",
+        "image": "images/equitydatascraper.jpg",
+        "link": "https://github.com/JamesWhiteleyIV/Equity-Data-Web-Scraper"
+	},
+    {
+        "name": "Chess",
+        "description": "2D Chess game written in JavaScript. A fun, simple project I made after my first quarter of Oregon State University's Computer Science program. I re-wrote the code from a C++ version I wrote months earlier to provide a GUI for the game.",
+        "image": "images/chess.jpg",
+        "link": "https://github.com/JamesWhiteleyIV/Chess-2.0"
 	}
+
 ]
