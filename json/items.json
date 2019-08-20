@@ -2,7 +2,7 @@
     {
         "name": "FoodBuddy",
         "description": "A stand-alone Qt application which allows a user to save recipes, tag them, and add notes/screenshots",
-        "image": "images/foodbuddy.jpg",
+        "image": "images/foodbuddy.png",
         "link": "https://github.com/JamesWhiteleyIV/FoodBuddy"
 	},
     {
