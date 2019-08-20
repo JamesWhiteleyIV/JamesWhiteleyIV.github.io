@@ -1,7 +1,7 @@
 [
     {
         "name": "FoodBuddy",
-        "description": "A stand-alone Qt application which allows a user to save recipes, tag them, and add notes/screenshots",
+        "description": "A stand-alone Qt application which allows a user to save recipes, tag them, and add notes/screenshots.",
         "image": "images/foodbuddy.png",
         "link": "https://github.com/JamesWhiteleyIV/FoodBuddy"
 	},
@@ -20,7 +20,7 @@
     {
         "name": "Equity Data Scraper",
         "description": "Scrapes Morningstar.com for quarterly and annual fundamental data as well as analyst estimates from Marketwatch.com and earnings surprises from Nasdaq.com. Stores the data as .csv or .pkl. Can easily be adapted to store in MySQL or other DB.",
-        "image": "images/equitydatascraper.jpg",
+        "image": "images/equityscraper.png",
         "link": "https://github.com/JamesWhiteleyIV/Equity-Data-Web-Scraper"
 	},
     {
